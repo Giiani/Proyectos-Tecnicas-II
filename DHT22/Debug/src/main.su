@@ -1,0 +1,12 @@
+main.c:38:5:main	32	static
+main.c:57:6:delay	16	static
+main.c:68:6:Set_Pin_Output	16	static
+main.c:81:6:Set_Pin_Input	16	static
+main.c:95:6:DHT_Start	8	static
+main.c:105:9:DHT_Check_Response	8	static
+main.c:120:9:DHT_Read	16	static
+main.c:139:6:DHT_GetData	16	static
+main.c:163:6:TIM5_Init	32	static
+main.c:190:6:TIM5_Config	16	static
+main.c:209:6:TIM5_Start	8	static
+main.c:220:6:TIM5_IRQHandler	8	static

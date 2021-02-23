@@ -1,0 +1,15 @@
+stm32_ub_lcd_4x20.c:54:6:UB_LCD_4x20_Init	8	static
+stm32_ub_lcd_4x20.c:77:6:UB_LCD_4x20_Clear	8	static
+stm32_ub_lcd_4x20.c:90:6:UB_LCD_4x20_SetMode	16	static
+stm32_ub_lcd_4x20.c:104:6:UB_LCD_4x20_String	16	static
+stm32_ub_lcd_4x20.c:120:6:UB_LCD_4x20_WriteCG	24	static
+stm32_ub_lcd_4x20.c:140:6:UB_LCD_4x20_PrintCG	16	static
+stm32_ub_lcd_4x20.c:153:6:P_LCD_4x20_InitIO	24	static
+stm32_ub_lcd_4x20.c:185:6:P_LCD_4x20_PinLo	16	static
+stm32_ub_lcd_4x20.c:195:6:P_LCD_4x20_PinHi	16	static
+stm32_ub_lcd_4x20.c:205:6:P_LCD_4x20_Clk	8	static
+stm32_ub_lcd_4x20.c:222:6:P_LCD_4x20_InitSequenz	8	static
+stm32_ub_lcd_4x20.c:252:6:P_LCD_4x20_Cmd	16	static
+stm32_ub_lcd_4x20.c:275:6:P_LCD_4x20_Data	16	static
+stm32_ub_lcd_4x20.c:298:6:P_LCD_4x20_Cursor	16	static
+stm32_ub_lcd_4x20.c:312:6:P_LCD_4x20_Delay	16	static

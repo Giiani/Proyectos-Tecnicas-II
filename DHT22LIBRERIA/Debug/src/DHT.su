@@ -1,0 +1,11 @@
+DHT.c:23:6:delay	16	static
+DHT.c:34:6:Set_Pin_Output	16	static
+DHT.c:47:6:Set_Pin_Input	16	static
+DHT.c:61:6:DHT_Start	8	static
+DHT.c:73:9:DHT_Check_Response	8	static
+DHT.c:88:9:DHT_Read	16	static
+DHT.c:107:6:DHT_GetData	32	static
+DHT.c:131:6:TIM2_Init	32	static
+DHT.c:158:6:TIM2_Config	16	static
+DHT.c:177:6:TIM2_Start	8	static
+DHT.c:188:6:TIM2_IRQHandler	8	static

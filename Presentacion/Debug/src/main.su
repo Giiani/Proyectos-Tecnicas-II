@@ -1,0 +1,6 @@
+main.c:33:5:main	56	static
+main.c:88:6:GPIO_Configure	16	static
+main.c:119:6:ADC_Configure	56	static
+main.c:163:6:EXTI11_Configure	24	static
+main.c:185:6:ADC_IRQHandler	8	static
+main.c:205:6:EXTI15_10_IRQHandler	8	static

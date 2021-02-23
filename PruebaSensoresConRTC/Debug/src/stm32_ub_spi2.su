@@ -1,0 +1,2 @@
+stm32_ub_spi2.c:43:13:UB_SPI2_Init	48	static
+stm32_ub_spi2.c:126:9:UB_SPI2_SendByte	24	static

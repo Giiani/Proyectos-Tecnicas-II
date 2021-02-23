@@ -1,0 +1,12 @@
+stm32_ub_fatfs.c:56:6:UB_Fatfs_Init	8	static
+stm32_ub_fatfs.c:74:9:UB_Fatfs_CheckMedia	24	static
+stm32_ub_fatfs.c:100:9:UB_Fatfs_Mount	32	static
+stm32_ub_fatfs.c:136:9:UB_Fatfs_UnMount	24	static
+stm32_ub_fatfs.c:163:9:UB_Fatfs_DelFile	24	static
+stm32_ub_fatfs.c:192:9:UB_Fatfs_OpenFile	32	static
+stm32_ub_fatfs.c:230:9:UB_Fatfs_CloseFile	24	static
+stm32_ub_fatfs.c:257:9:UB_Fatfs_WriteString	24	static
+stm32_ub_fatfs.c:290:9:UB_Fatfs_ReadString	32	static
+stm32_ub_fatfs.c:314:10:UB_Fatfs_FileSize	24	static
+stm32_ub_fatfs.c:340:9:UB_Fatfs_ReadBlock	40	static
+stm32_ub_fatfs.c:385:9:UB_Fatfs_WriteBlock	40	static

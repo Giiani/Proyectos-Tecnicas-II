@@ -1,0 +1,8 @@
+core_cm4.h:1535:22:NVIC_SetPriority	16	static
+core_cm4.h:1662:26:SysTick_Config	16	static
+main.c:34:5:main	8	static
+main.c:49:6:Despachador	8	static
+main.c:55:6:InicializarPines	16	static
+main.c:91:6:PrimerTarea	16	static
+main.c:107:6:SegundaTarea	16	static
+main.c:194:6:TercerTarea	24	static

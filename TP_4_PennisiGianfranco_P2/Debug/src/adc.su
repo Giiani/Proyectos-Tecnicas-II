@@ -1,0 +1,2 @@
+adc.c:22:6:adc_inicializar	56	static
+adc.c:73:9:adc_leer_cuentas	16	static

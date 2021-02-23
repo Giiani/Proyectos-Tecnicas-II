@@ -1,0 +1,5 @@
+stm32_ub_led.c:39:6:UB_Led_Init	24	static
+stm32_ub_led.c:70:6:UB_Led_Off	16	static
+stm32_ub_led.c:78:6:UB_Led_On	16	static
+stm32_ub_led.c:86:6:UB_Led_Toggle	16	static
+stm32_ub_led.c:94:6:UB_Led_Switch	16	static
